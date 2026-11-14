@@ -1,0 +1,66 @@
+{
+  "item": {
+    "id": "979867498017",
+    "restype": "watchface",
+    "name": "红色机器人 CRIMSON VISOR",
+    "description": "CRIMSON VISOR_红色机器人_机甲配色\n时间, 红色装甲, 面罩.\n目前支持小米手环 10 / 11（含 NFC）/ 9 Pro / 10 Pro\nall内容和想法 @叫我Brin就好 可以在小红书观看",
+    "preview": [
+      "media/00-motion.webp",
+      "media/00-motion-pro.webp",
+      "media/03-devices.png",
+      "media/04-wake.png",
+      "media/05-battery.png",
+      "media/06-aod.png"
+    ],
+    "icon": "media/01-icon.png",
+    "cover": "media/02-cover.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书查看动态表盘",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Crimson Visor.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Crimson Visor.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Crimson Visor.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Crimson Visor.bin",
+      "versionCode": 0
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Crimson Visor Pro.bin",
+      "versionCode": 0
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Crimson Visor Pro.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
